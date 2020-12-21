@@ -1,12 +1,13 @@
 {
   "config": {
     "required_game_versions": [
-      "1.15"
+      "1.16"
     ],
     "excluded_game_versions": [
-      "Forge",
+      "Fabric",
       "Rift"
-    ]
+    ],
+    "release_cycle": "RELEASE"
   },
   "mods": [
     {
@@ -105,6 +106,314 @@
       "project_name": "Mod Menu (Fabric)",
       "file_id": 2902148,
       "file_name": "modmenu-1.10.2+build.32.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 250398,
+      "project_name": "Controlling",
+      "file_id": 3110995,
+      "file_name": "Controlling-7.0.0.11.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 308240,
+      "project_name": "Cherished Worlds (Forge)",
+      "file_id": 3113122,
+      "file_name": "cherishedworlds-forge-1.16.4-5.1.0.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 283644,
+      "project_name": "Placebo",
+      "file_id": 3092113,
+      "file_name": "Placebo-1.16.3-4.3.3.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 316881,
+      "project_name": "Curious Shulker Boxes (Forge)",
+      "file_id": 3066615,
+      "file_name": "curiousshulkerboxes-forge-1.16.3-4.0.0.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 272515,
+      "project_name": "Better Advancements",
+      "file_id": 3109976,
+      "file_name": "BetterAdvancements-1.16.4-0.1.0.103.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 353942,
+      "project_name": "Snow Under Trees",
+      "file_id": 3057580,
+      "file_name": "snowundertrees-1.16.3-v1.1.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 372534,
+      "project_name": "Pam\u0027s HarvestCraft 2 - Food Core",
+      "file_id": 3068560,
+      "file_name": "pamhc2foodcore-1.16.3-1.0.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 371402,
+      "project_name": "Leap",
+      "file_id": 3100355,
+      "file_name": "leap-1.16.4-1.0.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 233071,
+      "project_name": "Crafting Tweaks",
+      "file_id": 3066033,
+      "file_name": "CraftingTweaks_1.16.3-12.2.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 233019,
+      "project_name": "AI Improvements",
+      "file_id": 3031978,
+      "file_name": "AI-Improvements-1.16.2-0.3.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 244844,
+      "project_name": "ForgeEndertech",
+      "file_id": 3111478,
+      "file_name": "ForgeEndertech-1.16.4-7.0.8.0-build.0028.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 250419,
+      "project_name": "Enchantment Descriptions",
+      "file_id": 3112901,
+      "file_name": "EnchantmentDescriptions-1.16.4-6.0.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 241160,
+      "project_name": "NetherPortalFix",
+      "file_id": 3098229,
+      "file_name": "NetherPortalFix_1.16.3-7.2.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 69118,
+      "project_name": "Morpheus",
+      "file_id": 3114135,
+      "file_name": "Morpheus-1.16.4-4.2.68.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 352835,
+      "project_name": "Backpacked",
+      "file_id": 3108379,
+      "file_name": "backpacked-1.7.0-1.16.3.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 345973,
+      "project_name": "Cycle Paintings",
+      "file_id": 3101920,
+      "file_name": "cyclepaintings_1.16.4-1.4.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 224223,
+      "project_name": "Better Title Screen",
+      "file_id": 3111817,
+      "file_name": "BetterTitleScreen-1.16.4-1.10.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 288885,
+      "project_name": "FastWorkbench",
+      "file_id": 3112661,
+      "file_name": "FastWorkbench-1.16.3-4.4.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 280510,
+      "project_name": "AttributeFix",
+      "file_id": 3112152,
+      "file_name": "AttributeFix-1.16.4-9.0.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 377051,
+      "project_name": "Bed Benefits",
+      "file_id": 3112288,
+      "file_name": "BedBenefits-1.16.4-4.0.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 342584,
+      "project_name": "Collective",
+      "file_id": 3101763,
+      "file_name": "collective-1.16.4-1.53.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 305373,
+      "project_name": "Reload Audio Driver (RAD) [Forge]",
+      "file_id": 3054516,
+      "file_name": "rad-1.16-4.1.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 344973,
+      "project_name": "Overpowered Mending",
+      "file_id": 3100146,
+      "file_name": "OverpoweredMending-Forge-1.16.4-2.2.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 244256,
+      "project_name": "Reap Mod",
+      "file_id": 3105531,
+      "file_name": "reap-1.16.4-1.0.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 324985,
+      "project_name": "Metal Barrels",
+      "file_id": 3055811,
+      "file_name": "metalbarrels-3.3a.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 347488,
+      "project_name": "Valhelsia Structures",
+      "file_id": 3089925,
+      "file_name": "valhelsia_structures-16.0.5.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 230976,
+      "project_name": "Fast Leaf Decay",
+      "file_id": 3052146,
+      "file_name": "FastLeafDecay-v25.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 309927,
+      "project_name": "Curios API (Forge)",
+      "file_id": 3122651,
+      "file_name": "curios-forge-1.16.4-4.0.3.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 292899,
+      "project_name": "Shulker Tooltip",
+      "file_id": 3040385,
+      "file_name": "ShulkerTooltip-1.9.3.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 308653,
+      "project_name": "Bedspreads (Forge)",
+      "file_id": 3118466,
+      "file_name": "bedspreads-forge-1.16.4-5.1.0.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 363703,
+      "project_name": "Goblin Traders",
+      "file_id": 3081381,
+      "file_name": "goblintraders-1.2.2-1.16.3.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 348521,
+      "project_name": "Cloth Config API (Forge)",
+      "file_id": 3112227,
+      "file_name": "cloth-config-forge-4.1.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 222789,
+      "project_name": "Sound Filters",
+      "file_id": 3039955,
+      "file_name": "SoundFilters-0.14_for_1.16.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 244849,
+      "project_name": "Advanced Hook Launchers",
+      "file_id": 3105558,
+      "file_name": "AdHooks-1.16.4-6.1.2.0-build.0027.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 313536,
+      "project_name": "BountifulBaubles",
+      "file_id": 3104453,
+      "file_name": "Bountiful+Baubles+FORGE-1.16.3-0.0.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 271740,
+      "project_name": "Toast Control",
+      "file_id": 3069051,
+      "file_name": "Toast-Control-1.16.3-4.3.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 251407,
+      "project_name": "Client Tweaks",
+      "file_id": 3066063,
+      "file_name": "ClientTweaks_1.16.3-5.2.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 299540,
+      "project_name": "FastFurnace",
+      "file_id": 3069048,
+      "file_name": "FastFurnace-1.16.3-4.3.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 370782,
+      "project_name": "Dash",
+      "file_id": 3100345,
+      "file_name": "dash-1.16.4-1.0.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 60089,
+      "project_name": "Mouse Tweaks",
+      "file_id": 3035780,
+      "file_name": "MouseTweaks-2.13-mc1.16.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 248787,
+      "project_name": "AppleSkin",
+      "file_id": 3035787,
+      "file_name": "AppleSkin-mc1.16.2-forge-1.0.14.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 228756,
+      "project_name": "Iron Chests",
+      "file_id": 3105315,
+      "file_name": "ironchest-1.16.4-11.2.10.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 231484,
+      "project_name": "Cooking for Blockheads",
+      "file_id": 3098223,
+      "file_name": "CookingForBlockheads_1.16.3-9.2.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 240630,
+      "project_name": "Just Enough Resources (JER)",
+      "file_id": 3109962,
+      "file_name": "JustEnoughResources-1.16.4-0.12.0.103.jar",
       "pinned": false
     }
   ]

@@ -3,7 +3,8 @@
     "required_game_versions": [
       "1.15"
     ],
-    "excluded_game_versions": []
+    "excluded_game_versions": [],
+    "release_cycle": "RELEASE"
   },
   "mods": [
     {
